@@ -10,6 +10,5 @@ https://jasdosanjh.github.io/react-cryptoworld/
 * Redux (Redux Toolkit)
 * Ant Design
 * Chart.js
-* Rapid API
-* Coinbase API https://developers.coinbase.com/
+* Coinranking API https://developers.coinranking.com/api/documentation
 * Bing News Search API https://www.microsoft.com/en-us/bing/apis/bing-news-search-api
