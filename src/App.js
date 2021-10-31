@@ -22,7 +22,7 @@ const App = () => {
         <Layout>
           <div className="routes">
             <Switch>
-              <Route exact path="/">
+              <Route exact path="/react-cryptoworld">
                 <Homepage />
               </Route>
               <Route exact path="/cryptocurrencies">
@@ -49,7 +49,7 @@ const App = () => {
             All rights reserved
           </Typography.Title>
           <Space>
-            <Link to="/">Home</Link>
+            <Link to="/react-cryptoworld">Home</Link>
             <Link to="/exchanges">Exchanges</Link>
             <Link to="/news">News</Link>
           </Space>
